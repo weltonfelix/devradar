@@ -1,0 +1,43 @@
+{
+  "name": "devradar",
+  "version": "1.0.0",
+  "description": "Projeto da Semana OmniStack 10.0",
+  "keywords": [
+    "omnistack",
+    "nodejs",
+    "react",
+    "reactnative",
+    "js",
+    "javascript",
+    "devradar"
+  ],
+  "homepage": "https://github.com/weltonfelix/omnistack10#readme",
+  "author": {
+    "name": "Welton Felix",
+    "email": "contato.weltonf@gmail.com",
+    "url": "https://github.com/weltonfelix"
+  },
+  "bugs": {
+    "url": "https://github.com/weltonfelix/omnistack10/issues",
+    "email": "contato.weltonf@gmail.com"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.7",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weltonfelix/omnistack10.git"
+  }
+}
