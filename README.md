@@ -52,7 +52,8 @@ Project carried out for Semana OmniStack 10.0
 8. `cd ..`
 9. To start backend
    1. `cd backend`
-   2. `yarn dev`
+   2. Add your database info in `src/index.js `
+   3. `yarn dev`
 10. To start web
     1. `cd web`
     2 `yarn start`
