@@ -30,10 +30,11 @@ Project carried out for Semana OmniStack 10.0
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-<!--
+
 <h2 align='center'>
-      <img title="Front-end"  alt="front-end" src="./gif-front-end.gif" width="50%">
+      <img title="Web"  alt="web" src="./gif-web.gif" width="50%">
 </h2>      
+<!--
 <h2 align='center'>
       <img title="Mobile" alt="mobile" src="./gif-mobile.gif" width="25%">
 	<br>
